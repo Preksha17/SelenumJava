@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21193" started-at="2020-03-08T11:58:12 IST" finished-at="2020-03-08T11:58:33 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21193" started-at="2020-03-08T11:58:12 IST" finished-at="2020-03-08T11:58:33 IST">
+      <class name="testngpackage.Facebook">
+        <test-method status="PASS" signature="input()[pri:0, instance:testngpackage.Facebook@35d176f7]" name="input" duration-ms="20344" started-at="2020-03-08T11:58:12 IST" finished-at="2020-03-08T11:58:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- input -->
+        <test-method status="PASS" signature="bye()[pri:0, instance:testngpackage.Facebook@35d176f7]" name="bye" is-config="true" duration-ms="784" started-at="2020-03-08T11:58:32 IST" finished-at="2020-03-08T11:58:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bye -->
+      </class> <!-- testngpackage.Facebook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
